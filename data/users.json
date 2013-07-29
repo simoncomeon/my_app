@@ -1,0 +1,20 @@
+{
+
+    "frank" : {
+	"username": "frank",
+	"name": "Frank Franklin",
+	"bio" : "Foot ball player"  
+     },
+
+    "jean" : {
+	"username" :"jean",
+	"name": "Jean Franklin",
+	"bio" : "Politics"
+    },
+    
+    "Edoa" : {
+	"username": "edoa",
+	"name" :"Edoa Franklin",
+	"bio" : "Dancer and actor"
+	}
+}
