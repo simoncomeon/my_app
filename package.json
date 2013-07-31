@@ -3,9 +3,21 @@
   , "version": "0.0.1"
   , "description": "A simple node.js app for heroku!"
   , "main": "app.js"  
+  , "scripts" : {
+      "test": "echo \" Error: no test specified\" && exit 1"
+      }
   , "private": true
+  ,"engines": {
+      "node" : "0.8.x"
+     ,"npm": "1.1.x"
+  }
+  , "repository" : {
+      "type" : "git" 
+      ,"url" : "https://github.com/simoncomeon/my_app"
+      }
   , "dependencies": {
       "express": "2.5.11"
     , "jade": ">= 0.0.1"
   }
+   ,"author" : "Simon Mehari"
 }
