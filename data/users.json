@@ -3,18 +3,18 @@
     "frank" : {
 	"username": "frank",
 	"name": "Frank Franklin",
-	"bio" : "Foot ball player"  
+	"bio" : "Norrkoping"  
      },
 
-    "jean" : {
+    "Jean" : {
 	"username" :"jean",
 	"name": "Jean Franklin",
-	"bio" : "Politics"
+	"bio" : "Stockholm"
     },
     
     "Edoa" : {
 	"username": "edoa",
 	"name" :"Edoa Franklin",
-	"bio" : "Dancer and actor"
+	"bio" : "Gothemburg"
 	}
 }

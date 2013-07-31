@@ -1,14 +1,15 @@
-h1 New User
+h1 BitLift (|#=) 
+
 
 form(method="POST", action="/users")
   p
-    label(for="username") Username<br />
+    label(for="username") From<br />
     input#username(name="username")
   p
-    label(for="name") Name <br />
+    label(for="name") To <br />
     input#name(name="name")
   p
-    label(for="bio") Bio <br />
+    label(for="bio") Description <br />
     textarea#bio(name="bio")
   p
-    input(type="submit", value="Create")
+    input(type="submit", value="Lift")
