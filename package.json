@@ -1,6 +1,8 @@
 {
-    "name": "application-name"
+    "name": "BitLiftapp"
   , "version": "0.0.1"
+  , "description": "A simple node.js app for heroku!"
+  , "main": "app.js"  
   , "private": true
   , "dependencies": {
       "express": "2.5.11"
